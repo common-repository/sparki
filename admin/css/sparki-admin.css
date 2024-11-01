@@ -1,0 +1,18 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ #submit,
+ #sparki_current_integration {
+     opacity: 0;
+     height: 0;
+     width: 0;
+ }
+ .button-danger.button-danger {
+    color: #cc1818;
+    border-color: #cc1818;
+ }
+ .button-danger.button-danger:hover {
+    color: #710d0d;
+    border-color: #710d0d;
+ }
